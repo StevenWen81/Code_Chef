@@ -1,3 +1,4 @@
+# 100/100
 s,w,c = map(int, input().split())
 
 left_chances = 20 - w
