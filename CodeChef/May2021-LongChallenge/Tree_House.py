@@ -1,3 +1,4 @@
+#0/100
 def jlh(x):
     hasil = 0
     while x != 0:
