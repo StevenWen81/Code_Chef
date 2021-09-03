@@ -17,6 +17,7 @@ makeNegative(0)    // return 0
 makeNegative(0.12) // return -0.12
 */
 
+<?php
 function makeNegative(float $num) : float
 {
     return ($num > 0 ? (-1 * $num) : $num);
