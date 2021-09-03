@@ -10,7 +10,7 @@ no change is required
 2. Zero (0) is not checked for any specific sign. Negative 
 zeros make no mathematical sense
 
-Sample Test Case
+Sample Test Case:
 makeNegative(1)    // return -1
 makeNegative(-5)   // return -5
 makeNegative(0)    // return 0
